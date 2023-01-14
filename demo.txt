@@ -1,0 +1,4 @@
+/Assets/CSS/demo1.css
+/Assets/CSS/demo.css
+/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Testing/Assets/JS/demo.js
+This is after build.
